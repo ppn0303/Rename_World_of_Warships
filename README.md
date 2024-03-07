@@ -9,3 +9,5 @@ step2. extract global.mo to txt and make name_list.csv
   - name_list.csv is example. you need to find ID in global_mo.txt
 
 step3. overwrite new global_2.mo in gamefolder
+---------------------------------
+I referred code from https://github.com/Yoshi-E/Rename-Ships-in-World-of-Warships/tree/master
